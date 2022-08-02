@@ -1,5 +1,45 @@
 body {
+
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+h1{
+  text-align: center;
+}
+section{
+  text-align: center;
+}
+img{
+  margin: center;
+}
+nav{
+  text-align: center;
+}
+a{
+  padding: 10px ,left,right;
+  background-color: gray;
+}
+figcaption{
+  text-align: center;
+  font-size: 0.8em;
+}
+p#featured-property{
+  width: 800px;
+  text-align: center;
+  font-size:1.0em;
+  
+                   }
+ .absolute p{
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  
+ }                  
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
